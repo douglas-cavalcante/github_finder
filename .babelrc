@@ -1,0 +1,7 @@
+{   
+    //vai entender o ambiente de trabalho
+    "presets": ["@babel/preset-env"],
+    "plugins": [
+        "@babel/plugin-transform-async-to-generator"
+    ]
+}
